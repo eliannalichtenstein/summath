@@ -1,0 +1,1 @@
+'use client'; export default ()=> <div><h2>Quiz MVP V2</h2><p>Progress bar, questions and Gemini hooks go here.</p></div>
